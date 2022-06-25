@@ -1,2 +1,3 @@
 # .github
-My default GitHub community health files.
+
+Default for all to save time. Why not?
